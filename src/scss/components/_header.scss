@@ -1,0 +1,16 @@
+header {
+    height: 6.25rem;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to right, #2a0845, #6441A5);
+    img {
+        height: 80%;
+        margin-left: 10%;
+    }
+    p {
+        font-family: VT323, monospace;
+        color: whitesmoke;
+        font-size: 3.12rem;
+        margin-left: 3.75rem;
+    }
+}
