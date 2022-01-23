@@ -17,7 +17,6 @@
         transform: translateX(-50%);
         margin: 0.9rem 0;
         padding: 0 0.3rem;
-        font-family: impact, sans-serif;
         font-size: 2rem;
         text-transform: uppercase;
         color: white;
@@ -52,7 +51,6 @@
     }
     button {
         border: none;
-        font-family: VT323, monospace;
         font-size: 1.6rem;
         color: white;
         background: #6441A5;
@@ -61,7 +59,6 @@
         cursor: pointer;
     }
     input::-webkit-input-placeholder {
-        font-family: VT323, monospace;
         font-size: 1.6rem;
         text-align: center;
     }
